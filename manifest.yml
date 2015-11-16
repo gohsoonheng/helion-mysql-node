@@ -1,7 +1,7 @@
 ---
 applications:
 - name: helion-mysql-node
-  mem: 128M
+  mem: 64M
   services:
     ${name}-db:
       type: mysql
