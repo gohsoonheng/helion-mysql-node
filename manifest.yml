@@ -5,3 +5,4 @@ applications:
   services:
     ${name}-db:
       type: mysql
+  domain: app.helionit.es
